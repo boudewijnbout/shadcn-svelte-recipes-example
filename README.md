@@ -1,38 +1,8 @@
-# create-svelte
+# Shadcn-svelte recipe example
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+![Shadcn-svelte recipes example - Google Chrome 28-12-2023 01_32_39](https://github.com/boudewijnbout/shadcn-svelte-recipes-example/assets/45170095/9cc50d19-dd4e-4014-acb3-c6de12fa9483)
 
-## Creating a project
+Created a simple `shadcn-svelte` version of this video series:
 
-If you're seeing this, you've probably already done this step. Congrats!
+- [Shadcn ui crash course](https://www.youtube.com/watch?v=wcTzlJi2Oz4)  
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
